@@ -1,0 +1,20 @@
+{
+  "name": "project_1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.5.12",
+    "bootstrap": "^5.3.3",
+    "core-js": "^3.8.3",
+    "vue": "^3.5.12",
+     "vue-confetti": "2.2.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8"
+  }
+}
